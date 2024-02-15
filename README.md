@@ -1,6 +1,6 @@
 # Andrew 1412 🐈‍⬛
 
-![Tewi](https://raw.githubusercontent.com/andrew1412/andrew1412/main/MVIMG_20220126_210106.jpg)
+![Tewi](https://github.com/andrew1412/andrew1412/raw/main/tewi.webp)
 
 - [🌐 Web](https://andrew1412.deno.dev)
 - [🪪 Sobre mi](https://andrew1412.deno.dev/about)
