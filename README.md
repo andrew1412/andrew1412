@@ -1,5 +1,7 @@
 # Andrew 1412 🐈‍⬛
 
+![Tewi](https://raw.githubusercontent.com/andrew1412/andrew1412/main/MVIMG_20220126_210106.jpg)
+
 - [🌐 Web](https://andrew1412.deno.dev)
 - [🪪 Sobre mi](https://andrew1412.deno.dev/about)
 - [📺 AniList](https://anilist.co/user/Andrew1412/)
